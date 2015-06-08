@@ -86,27 +86,27 @@
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>clojure</artifactId>
-      <version>1.5.1</version>
+      <version>1.7.0-RC1</version>
     </dependency>
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>math.combinatorics</artifactId>
-      <version>0.0.7</version>
+      <version>0.1.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-math3</artifactId>
-      <version>3.3</version>
+      <version>3.5</version>
     </dependency>
     <dependency>
       <groupId>net.mikera</groupId>
       <artifactId>core.matrix</artifactId>
-      <version>0.20.0</version>
+      <version>0.35.0</version>
     </dependency>
     <dependency>
       <groupId>prismatic</groupId>
       <artifactId>schema</artifactId>
-      <version>0.2.2</version>
+      <version>0.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.clojure</groupId>
@@ -123,7 +123,7 @@
     <dependency>
       <groupId>clojure-complete</groupId>
       <artifactId>clojure-complete</artifactId>
-      <version>0.2.3</version>
+      <version>0.2.4</version>
       <exclusions>
         <exclusion>
           <groupId>org.clojure</groupId>
