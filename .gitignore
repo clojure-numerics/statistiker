@@ -4,3 +4,4 @@
 /bin/
 /.nrepl-port
 /.settings/
+/.lein-failures
